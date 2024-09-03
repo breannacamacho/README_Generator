@@ -1,9 +1,8 @@
 <h3 align="center">README Generator</h3>
     <p align="center"> The README Generator is a command-line application that helps developers quickly create a professional README file for their projects. With this tool, you can generate a well-structured README by answering a series of prompts about your project's details, such as the project title, description, installation instructions, usage, contributing guidelines, tests, and license. This ensures consistency and saves time by automating the creation of comprehensive documentation for your GitHub repositories.
 
-    <br />
-    <a href="https://github.com/breannacamacho/README_Generator/issues">Report Bug</a>
-    <a href="https://github.com/breannacamacho/README_Generator/issues">Request Feature</a>
+  <a href="https://github.com/breannacamacho/README_Generator/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
+  <a href="https://github.com/breannacamacho/README_Generator/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=">Request Feature</a>
   </p>
 
 
@@ -35,14 +34,6 @@
     <li><a href="#questions">Questions/Contact</a></li>
   </ol>
 </details>
-
-## Usage
-// If desired, use the following code to generate a screenshot of your application in use. Add the source pathway to the 'src=""', in between the quotes
-//  <a href="https://github.com/breannacamacho/README_Generator">
-//     <img src="" alt="" width="600" height="400">
-//   </a>
-
-NPM
 
 ## Contributing
 
